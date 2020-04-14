@@ -1,0 +1,8 @@
+.vs/
+.vs
+ExpendioPrueba/.DS_Store
+ExpendioPrueba/ExpendioPrueba.Android/.DS_Store
+ExpendioPrueba/ExpendioPrueba/obj/*
+ExpendioPrueba/ExpendioPrueba/bin/*
+ExpendioPrueba/ExpendioPrueba.android/obj/*
+ExpendioPrueba/ExpendioPrueba.android/bin/*

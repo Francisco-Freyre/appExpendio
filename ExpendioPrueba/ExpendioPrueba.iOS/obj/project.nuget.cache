@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Og/qhnmb2YWak1eS8i8JMADBpYjDl8gZ/rXu9266gR+Vp4VG0vZk2Vt2S65fbFtR/KhT1vqm31W1ENJTNIwFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52618\\Xamarin\\ExpendioPrueba\\ExpendioPrueba\\ExpendioPrueba.iOS\\ExpendioPrueba.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52618\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\system.data.sqlclient.4.8.1.nupkg.sha512",
+    "C:\\Users\\52618\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
